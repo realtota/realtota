@@ -10,8 +10,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/realtota/configure-ad/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/realtota/azure-network-protocols/blob/main/README.md)
 - <b>Computer Imaging</b>
-  -
-  -
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/realtota/configure-ad/blob/main/README.md)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/realtota/azure-network-protocols/blob/main/README.md)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
